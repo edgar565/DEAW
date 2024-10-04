@@ -2,6 +2,6 @@
 
 | NOMBRE                | GITHUB              |
 |-----------------------|---------------------|
-| DYLAN | [enlace a github 1](https://github.com/alumar693) |
-| ANDREA | [enlace a github 2](https://github.com/4ndr33400) |
-| SERGIO | [enlace a github 3](https://github.com/SergioGarUso) |
+| DYLAN | [GitHub DYLAN](https://github.com/alumar693) |
+| ANDREA | [GitHub ANDREA](https://github.com/4ndr33400) |
+| SERGIO | [GitHub SERGIO](https://github.com/SergioGarUso) |
